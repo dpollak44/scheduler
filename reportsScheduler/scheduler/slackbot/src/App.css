@@ -1,0 +1,25 @@
+#OuterDateTime{
+  text-align: center;
+}
+
+#innerDateTime{
+  display: inline-block;
+}
+
+.form-inline{
+padding-left: 21rem;
+
+}
+
+#dropdownLabel{
+  padding-right: 1rem;
+}
+
+#channels{
+  padding-top: 1rem;
+}
+
+#scheduleDropdown{
+  padding-top: 1rem;
+}
+
